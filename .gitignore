@@ -143,10 +143,9 @@ cython_debug/
 .deployments
 
 db.sqlite3
-.env
+
 
 pyvenv.cfg
 
 
 .log
-
